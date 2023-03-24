@@ -29,7 +29,6 @@ Return:
 
 Example:
 
-    ```javascript
     {
         OpenUrlExt.open(urlString,
         				function(){ 
@@ -39,7 +38,6 @@ Example:
         					console.log("ko");
         				});
     }
-    ```
 
 ## Quirks:
 
